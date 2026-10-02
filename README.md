@@ -1,2 +1,2 @@
-# Monte-Carlo-Variance-Reduction-Methods
-While Monte Carlo methods are broadly applicable, they may become inefficient when standard random sampling fails to adequately capture spe- cific regions of the domain. In such cases, variance reduction methods such as antithetic sampling have been shown to reduce variance through inducing negative correlation.
+# Monte-Carlo-Variance-Reduction-Methods 
+While Monte Carlo methods are broadly applicable, they may become inefficient when standard random sampling fails to adequately capture specific regions of the domain. In such cases, variance reduction methods such as antithetic sampling have been shown to reduce variance through inducing negative correlation.However, alternative approaches may provide greater flexibility. These limitations motivate the development of variance reduction techniques, such as stratified sampling and importance sampling, which aim to improve the efficiency of Monte Carlo estimators.
